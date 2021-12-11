@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8374849A2764E5CC0043441C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837484992764E5CC0043441C /* Extensions.swift */; };
 		83EE47C8276390F5008EB216 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83EE47C7276390F5008EB216 /* AppDelegate.swift */; };
 		83EE47CA276390F5008EB216 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83EE47C9276390F5008EB216 /* SceneDelegate.swift */; };
 		83EE47CC276390F5008EB216 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83EE47CB276390F5008EB216 /* HomeViewController.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		837484992764E5CC0043441C /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		83EE47C4276390F5008EB216 /* Spotify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spotify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83EE47C7276390F5008EB216 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		83EE47C9276390F5008EB216 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 				83EE47D0276390F6008EB216 /* Assets.xcassets */,
 				83EE47C7276390F5008EB216 /* AppDelegate.swift */,
 				83EE47C9276390F5008EB216 /* SceneDelegate.swift */,
+				837484992764E5CC0043441C /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				83EE47F227639480008EB216 /* AuthViewController.swift in Sources */,
 				83EE47C8276390F5008EB216 /* AppDelegate.swift in Sources */,
 				83EE481D27639720008EB216 /* UserProfile.swift in Sources */,
+				8374849A2764E5CC0043441C /* Extensions.swift in Sources */,
 				83EE47EC2763945E008EB216 /* LibraryViewController.swift in Sources */,
 				83EE481A27639712008EB216 /* Artist.swift in Sources */,
 				83EE4804276394CA008EB216 /* PlaylistViewController.swift in Sources */,
