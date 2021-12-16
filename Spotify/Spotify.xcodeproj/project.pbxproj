@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		832D89D2276B5EBC008D4309 /* NewReleasesCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 832D89D1276B5EBC008D4309 /* NewReleasesCellViewModel.swift */; };
 		8368E84427678997007ABF5E /* SettingsModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8368E84327678997007ABF5E /* SettingsModels.swift */; };
 		8374849A2764E5CC0043441C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837484992764E5CC0043441C /* Extensions.swift */; };
 		8374849D2764FBB80043441C /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374849C2764FBB80043441C /* AuthResponse.swift */; };
@@ -45,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		7E4B285B64515476F4960B60 /* Pods_Spotify.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Spotify.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		832D89D1276B5EBC008D4309 /* NewReleasesCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewReleasesCellViewModel.swift; sourceTree = "<group>"; };
 		8368E84327678997007ABF5E /* SettingsModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsModels.swift; sourceTree = "<group>"; };
 		837484992764E5CC0043441C /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		8374849C2764FBB80043441C /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 		83EE47DF276391A2008EB216 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				832D89D1276B5EBC008D4309 /* NewReleasesCellViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -360,6 +363,7 @@
 				83EE47E92763944F008EB216 /* SearchViewController.swift in Sources */,
 				83EE4814276396FC008EB216 /* Playlist.swift in Sources */,
 				83EE480A276396BA008EB216 /* AuthManager.swift in Sources */,
+				832D89D2276B5EBC008D4309 /* NewReleasesCellViewModel.swift in Sources */,
 				83EE4807276394D9008EB216 /* SearchResultsViewController.swift in Sources */,
 				83E103812768C03C00BDC7BE /* APIImage.swift in Sources */,
 				83EE47F627639490008EB216 /* WelcomeViewController.swift in Sources */,
