@@ -350,7 +350,7 @@ extension HomeViewController: UICollectionViewDelegate, UICollectionViewDataSour
             let group = NSCollectionLayoutGroup.vertical(
                 layoutSize: NSCollectionLayoutSize(
                     widthDimension: .fractionalWidth(1.0),
-                    heightDimension: .absolute(60)),   // each of the vertically stacked items has a space of 120
+                    heightDimension: .absolute(80)),   // each of the vertically stacked items has a space of 120
                 subitem: item,
                 count: 1
             )
